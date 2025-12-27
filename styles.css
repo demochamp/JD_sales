@@ -528,10 +528,6 @@ element.style {
   pointer-events: none;
 }
 
-.mt-4{
-  margin-bottom: -30px;
-}
-
 /* The mouse outline */
 .scroll-mouse {
   width: 24px;
@@ -1153,4 +1149,5 @@ a:focus {
     margin-bottom: 8px;
   }
 }
+
 
